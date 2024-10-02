@@ -22,10 +22,10 @@ Clique no nome do aluno para acessar o jogo</p>
 
 <p>402</p>
 
-<a href="https://silvalaine.github.io/4-ano_Salles/THAYANE_E_BEATRIZHAES/">THAYANE E BEATRIZ</a><br>
+<a href="https://silvalaine.github.io/4-ano_Salles/THAYANE_E_BEATRIZ/">THAYANE E BEATRIZ</a><br>
 <a href="https://silvalaine.github.io/4-ano_Salles/SOFIA_E_JORGE/">SOFIA E JORGE</a><br>
 <a href="https://silvalaine.github.io/4-ano_Salles/PEDRO_PAULO_E_MARIA_LUIZA/">PEDRO PAULO E MARIA LUIZA</a><br>
-<a href="https://silvalaine.github.io/4-ano_Salles/BRENO_E_DAVIA">BRENO E DAVI</a><br>
+<a href="https://silvalaine.github.io/4-ano_Salles/BRENO_E_DAVI">BRENO E DAVI</a><br>
 <a href="https://silvalaine.github.io/4-ano_Salles/JOAO_MIGUEL_CALDAS_E_ENZO_NOBR/">JOÃO MIGUEL CALDAS E ENZO NOBRE</a><br>
 <a href="https://silvalaine.github.io/4-ano_Salles/JOAO_MIGUEL_CAVALO_E_ENZO_GABR/">JOÃO MIGUEL CAVALO E ENZO GABRIEL</a><br>
 <a href="https://silvalaine.github.io/4-ano_Salles/MEL_E_MARIA_CLARA/">MEL_E_MARIA_CLARA</a><br>
